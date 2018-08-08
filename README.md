@@ -7,7 +7,7 @@ Corporate Logos, Fonts &amp; Colours
 3. [Document Rules](#document-rules)
 4. [Logos](#logos)
 
-## Colours <a name="colours"></a>
+## Colours
 
 ##### Dark Backgrounds
 
@@ -31,11 +31,11 @@ Corporate Logos, Fonts &amp; Colours
 | :----: | :----------: | :-------: |
 | PMS 7578c | PMS Cool Grey 6c | PMS Cool Grey 10c |
 
-## Fonts <a name="fonts"></a>
+## Fonts
 
 TBD
 
-## Document Rules <a name="document-rules"></a>
+## Document Rules
 
 #### Whitespace
 
@@ -73,7 +73,7 @@ Email address will be styled using all lowercase letters.
 jsmith@voltagepower.ca
 ```
 
-## Logos <a name="logos"></a>
+## Logos
 
 Always use a png type image as this allows for background transparency. For smaller use cases where a full logo is not appropriate, consider using a thumbnail of the logo without words.
 
