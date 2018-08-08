@@ -45,7 +45,7 @@ Whitespace should be created by the spacing before and after a line, based on th
 
 When a paragraph or table needs to span multiple pages, ensure that there is at least more than one sentence or table row on each page. Leaving orphaned lines creates a disjointed experience for readers.
 
-> Example: Don't do this...
+Example: Don't do this...
 ```
 Heirloom vegan gentrify succulents. Disrupt DIY vexillologist, quinoa next level vinyl la
 croix franzen selfies offal bushwick tilde organic helvetica occupy. Affogato street art
