@@ -32,16 +32,18 @@ Corporate Logos, Fonts &amp; Colours
 |     | Orange | Lighter Grey | Dark Grey |
 | --- | :----: | :----------: | :-------: |
 | R | 241 | 198 | 92 |
-| G | 103 | 200 | 104 |
-| B | 41 | 197 | 97 |
+| G | 104 | 199 | 105 |
+| B | 41 | 196 | 99 |
+| Hex | #f16829 | #c6c7c4 | #5c6963 |
 
 ### Light Backgrounds
 
 |     | Orange | Lighter Grey | Dark Grey |
 | --- | :----: | :----------: | :-------: |
-| R | 241 | 153 | 92 |
-| G | 103 | 160 | 104 |
-| B | 41 | 155 | 97 |
+| R | 241 | 151 | 92 |
+| G | 104 | 160 | 105 |
+| B | 41 | 155 | 99 |
+| Hex | #f16829 | #97a09b | #5c6963 |
 
 ### Pantone Colours
 
